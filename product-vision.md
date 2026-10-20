@@ -1,13 +1,20 @@
-# Product Vision Statement – CCTV Checker AI
+# Product Vision Statement - CCTV Checker
 
-- **FOR (Target Customer):** Security teams, building managers, and organisations that use CCTV cameras to keep people and places safe.
+- **FOR:** Security teams, building managers, and organisations that use CCTV cameras to keep people and places safe.
 
-- **WHO (Need or Opportunity):** Often find it difficult to monitor multiple camera feeds at the same time. Important activities or possible safety risks can be missed, especially when monitoring footage for long periods.
+- **WHO:** It can be difficult for security staff to watch several camera feeds at once, especially for long periods.
+  - They might miss important activities or situations that need attention.
+  - Watching multiple screens for hours can also take a lot of time and effort.
 
-- **THE (Product Name and Category):** CCTV Checker AI is an AI-based video monitoring system that analyses activities captured by security cameras.
+- **THE:** CCTV Checker AI is an AI-based system that analyses CCTV footage and helps identify activities that may need attention.
 
-- **THAT (Key Benefit):** Helps security teams identify unusual activities and possible safety risks more quickly by highlighting important moments in CCTV footage for further review.
+- **THAT:** It helps security staff notice unusual activities more quickly and makes monitoring easier.
+  - It highlights important moments so staff can review them without watching every camera continuously.
+  - This could help them use their time more effectively.
 
-- **UNLIKE (Primary Competitive Alternative):** Traditional CCTV systems, where security staff often have to monitor camera feeds manually or rely on basic motion-detection alerts.
+- **UNLIKE:** Traditional CCTV systems usually depend on staff watching the cameras themselves or using basic motion-detection alerts that may not explain what is happening.
 
-- **OUR PRODUCT (Primary Differentiation):** CCTV Checker AI aims to go beyond basic motion detection by analysing activity patterns and identifying predefined situations that may need attention. Instead of judging a person's intentions, it focuses on observable activities and alerts human operators when something may require further investigation. Its goal is to reduce manual monitoring effort while keeping people responsible for reviewing alerts and making final decisions.
+- **OUR PRODUCT:** CCTV Checker AI aims to do more than detect movement. It looks for certain activity patterns and highlights situations that may need to be checked.
+  - It focuses on what can actually be seen in the footage rather than guessing what a person is thinking or planning.
+  - Security staff can review the alerts and decide whether any action is needed.
+  - The system should also consider privacy and avoid making automatic decisions about people based only on its alerts.
